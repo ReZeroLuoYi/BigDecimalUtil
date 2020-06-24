@@ -1,0 +1,11 @@
+# Default ignored files
+/workspace.xml
+
+.settings/
+target/
+.classpath
+.project
+.idea/
+*.iml
+back/
+.DS_Store
